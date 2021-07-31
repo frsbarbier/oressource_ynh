@@ -1,0 +1,7 @@
+SOURCE_URL=https://github.com/mart1ver/oressource/archive/refs/tags/0.3.0.tar.gz
+SOURCE_SUM=d0cfb2c084c671d830ca33486b5cdb80c691a88916b40093c6bb31180a41c16a
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=tar.gz
+SOURCE_IN_SUBDIR=true
+SOURCE_FILENAME=
+SOURCE_EXTRACT=true
