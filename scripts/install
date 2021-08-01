@@ -87,8 +87,8 @@ ynh_setup_source --dest_dir="$final_path"
 # files in some cases.
 # But FOR THE LOVE OF GOD, do not allow r/x for "others" on the entire folder -
 # this will be treated as a security issue.
-chmod 750 "$final_path"
-chmod -R o-rwx "$final_path"
+chmod 755 "$final_path"
+chmod -R o-wx "$final_path"
 chown -R $app: "$final_path"
 
 #=================================================
