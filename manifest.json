@@ -38,7 +38,7 @@
                 "type": "path",
                 "ask": {
                     "en": "Choose a path for Oressource",
-                    "fr": "Choisissez un chemin pour Oressource", 
+                    "fr": "Choisissez un chemin pour Oressource"
                 },
                 "example": "/oressource",
                 "default": "/oressource"
